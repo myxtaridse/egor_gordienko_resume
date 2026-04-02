@@ -232,6 +232,7 @@ footer span {
     .section-header h1 { font-size: 28px; }
     .text p { font-size: 18px; }
 
+    footer ul { row-gap: 15px; }
     footer span { font-size: 20px; }
     footer svg { width: 40px; }
 }
